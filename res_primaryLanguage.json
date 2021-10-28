@@ -1,0 +1,164 @@
+{
+    "basic_info": {
+      "description_header": "반가워요!",
+      "description": "만나서 반갑습니다. 늘 발전하는 사람을 꿈꾸는 이동빈입니다. 저는 현재 프론트엔드 개발자로써 살아가고 있으며 제일 좋아하는 언어는 자바스크립트,리액트입니다. 지금 보고 계신 홈페이지는 리액트로 만들어졌습니다. 아직 리액트에 대한 배움은 부족하지만, 늘 최선을 다하도록 하겠습니다. 감사합니다!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "자사 홈페이지 제작",
+        "startDate": "2021",
+        "description": "처음으로 프로젝트를 주관하고 총괄하게 된 홈페이지입니다. JS와 php를 사용하여 프론트와 백엔드를 구성했습니다. 저는 프론트엔드 개발자로써 HTML5,CSS,JS를 활용하여 개발에 기여하였습니다.",
+        "images": [
+          "images/portfolio/companya/p1.png",
+          "images/portfolio/companya/p2.png",
+          "images/portfolio/companya/p3.png"
+        ],
+        "url": "http://companya.kr/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          }
+        ]
+      },
+      {
+        "title": "정상라이다",
+        "startDate": "2021",
+        "description": "2021년 정부지원 사업의 일환으로 제작하였습니다. 프론트엔드 개발에 기여하였습니다.",
+        "images": [
+          "images/portfolio/lidar/p1.png",
+          "images/portfolio/lidar/p2.png"
+        ],
+        "url": "http://jslidar.co.kr/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          }
+        ]
+      },
+      {
+          "title": "아이트릭스테크놀로지",
+          "startDate": "2021",
+          "description": "2021년 정부지원 사업의 일환으로 제작하였습니다. 기존 프로젝트와는 다르게 회원가입 기능을 위해 백엔드 개발자와 협업을 진행했으며 프론트엔드 작업을 담당했습니다.",
+          "images": [
+            "images/portfolio/itrix/p1.png",
+            "images/portfolio/itrix/p2.png"
+          ],
+          "url": "http://i-trix.co.kr/",
+          "technologies": [
+            {
+              "class": "devicon-html5-plain",
+              "name": "html5"
+            },
+            {
+              "class": "devicon-javascript-plain",
+              "name": "JavaScript"
+            },
+            {
+              "class": "devicon-css3-plain",
+              "name": "css3"
+            }
+          ]
+        },
+      {
+        "title": "기업 쇼핑몰 제작",
+        "startDate": "2020",
+        "description": "스타트업 초기 지원 사업 중 쇼핑몰 제작입니다. 카페24 쇼핑몰 솔루션을 활용해 제작하였으며 기업의 니즈를 반영하며 각종 SDK와 SEO최적화에 신경썼습니다.",
+        "images": [
+          "images/portfolio/capsules/p1.png",
+          "images/portfolio/capsules/p2.png"
+        ],
+        "url": "https://capsules.kr/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "HS컴퍼니",
+        "title": "Front-End Developer",
+        "years": "2020.10 - 재직중",
+        "mainTech": [
+          "JavaScript","PHP"
+        ],
+        "technologies": [
+          "Filezilla",
+          "API",
+          "JavaScript",
+          "Bootstrap",
+          "Html5",
+          "Css3",
+          "Sass",
+          "Firebase",
+          "Mysql"
+        ]
+      },
+      {
+        "company": "컴퍼니에이",
+        "title": "Front-End Developer",
+        "years": "2021.02 - 2021.08",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "Filezilla",
+          "API",
+          "JavaScript",
+          "Bootstrap",
+          "Html5",
+          "Css3",
+          "Sass"
+        ]
+      },
+      {
+        "company": "라온팩토리",
+        "title": "Web Pubilsher",
+        "years": "2018.01 - 2019.01",
+        "mainTech": [
+          "HTML5","CSS3"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Html5",
+          "Css3",
+          "cafe24",
+          "PHP"
+        ]
+      }
+    ]
+  }
