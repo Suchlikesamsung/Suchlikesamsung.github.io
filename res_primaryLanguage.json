@@ -106,8 +106,34 @@
             "name": "css3"
           }
         ]
+      },
+      {
+        "title": "소담영화제",
+        "startDate": "2021",
+        "description": "2021년에 진행한 프로젝트 중 가장 큰 프로젝트였습니다. 중소벤처기업부 주관의 사업이였으며 저는 프론트엔드 개발자로 프론트엔드 개발에 부분적으로 참여하였습니다.",
+        "images": [
+          "images/portfolio/sodam/p1.png",
+          "images/portfolio/sodam/p2.png",
+          "images/portfolio/sodam/p3.png"
+        ],
+        "url": "https://www.xn--jk1bt0z3kdvrc871a.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          }
+        ]
       }
     ],
+    
     "experience": [
       {
         "company": "HS컴퍼니",
@@ -148,7 +174,7 @@
       {
         "company": "라온팩토리",
         "title": "Web Pubilsher",
-        "years": "2018.01 - 2019.01",
+        "years": "2018.01 - 2019.12",
         "mainTech": [
           "HTML5","CSS3"
         ],
